@@ -147,6 +147,10 @@ The project focuses solely on managing and redistributing food surplus informati
   <img src="https://cdn-1.webcatalog.io/catalog/mockaroo/mockaroo-icon-filled-256.png?v=1714775161445" width="80" title="Mockaroo"/>
 </p>
 
+![image](https://github.com/user-attachments/assets/35a8a570-795b-44d6-8336-cbd4d14aab47)
+![image](https://github.com/user-attachments/assets/3caf91a4-2e0b-485a-9651-89bb5d2dcee7)
+![image](https://github.com/user-attachments/assets/aea2a65e-b4cc-4e0a-87ad-f288b966570a)
+
 ---
 
 ## Contact
