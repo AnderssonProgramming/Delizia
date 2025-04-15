@@ -31,9 +31,8 @@ Food waste in our cities and across the country has become a daily reality—eve
 **Delizia**
 
 ### Project Logo
-<div align="center">
-  <img src="https://github.com/Santi-crown/delizia/raw/master/logoProyect.png" alt="Project Logo" width="300" height="300">
-</div>
+![image](https://github.com/user-attachments/assets/b00ffe66-d5aa-4a67-99d2-df29b342a01b)
+
 
 ### Stakeholders and Potential Sponsors
 #### Charity Organizations and NGOs
